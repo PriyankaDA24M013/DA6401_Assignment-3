@@ -49,7 +49,7 @@ If using Kaggle:
 - Upload `dakshina_dataset_v1.0` to `/kaggle/input`.
 - Add your WANDB API Key to "Secrets" as `WANDB_API_KEY`.
 
-### ▶ Running the Script
+### Running the Script
 
 1. Upload `dl_agn_3.py` and dataset to your working directory or Kaggle Notebook.
 2. Execute the script cell by cell or run all at once.
